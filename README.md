@@ -6,7 +6,10 @@
       <img src="pic/coding.svg" />
     </picture>
 </div>
-<div align="center"> <img src="https://visitor-badge.glitch.me/badge?page_id=UserWangZz" /> </div>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=UserWangZz&label=Views&color=orange&style=flat" alt="访问量统计" />
+</div>
+
 
 ### This is my blog
 
