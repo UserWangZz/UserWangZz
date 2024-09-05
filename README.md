@@ -2,7 +2,7 @@
 
 ### Hello
 
-[![UserWangZz's GitHub stats](https://github-readme-stats-userwangzz.vercel.app/api?username=UserWangZz&show_icons=true&theme=cobalt)](https://github.com/UserWangZz)
+[![UserWangZz's GitHub stats](https://github-readme-stats-greatv.vercel.app/api?username=UserWangZz&show_icons=true&theme=cobalt)](https://github.com/UserWangZz)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=UserWangZz&theme=gotham)](https://git.io/streak-stats)
 
