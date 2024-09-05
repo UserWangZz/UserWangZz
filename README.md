@@ -34,7 +34,7 @@
 
 ![](https://raw.githubusercontent.com/UserWangZz/UserWangZz/output/github-contribution-grid-snake.svg)
 
-<img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/icon.png" />
+<img src="pic/downpic.png" />
 
 <!--
 **UserWangZz/UserWangZz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
