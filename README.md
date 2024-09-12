@@ -17,7 +17,20 @@
 
 ### Github Contributions
 
-![](https://raw.githubusercontent.com/UserWangZz/UserWangZz/output/github-contribution-grid-snake.svg)
+<div align="center">
+<img src="https://raw.githubusercontent.com/UserWangZz/UserWangZz/output/github-contribution-grid-snake.svg" />
+<table>
+    <tr>
+      <td>
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=UserWangZz&theme=xcode&bg_color=FF000000&hide_border=true" />
+          <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=UserWangZz&theme=xcode&bg_color=FF000000&color=000000&hide_border=true" />
+          <img src="https://github-readme-activity-graph.vercel.app/graph?username=UserWangZz&theme=xcode&bg_color=FF000000&hide_border=true" />
+        </picture>
+    </tr>
+  </table>
+</div>
+
 
 ### 
 
@@ -57,16 +70,6 @@
   <a href="https://github.com/UserWangZz">
     <img src="https://github-readme-stats-greatv.vercel.app/api/top-langs/?username=UserWangZz&layout=compact&theme=gotham" />
   </a>
-  <table>
-  <tr>
-    <td>
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=UserWangZz&theme=xcode&bg_color=FF000000&hide_border=true" />
-        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=UserWangZz&theme=xcode&bg_color=FF000000&color=000000&hide_border=true" />
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=UserWangZz&theme=xcode&bg_color=FF000000&hide_border=true" />
-      </picture>
-  </tr>
-</table>
   <img src="pic/downpic.png" />
 </div>
 
