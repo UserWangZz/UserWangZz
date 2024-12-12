@@ -23,9 +23,9 @@ jobs:
     
     steps:
       - name: Debug Token
-        run: echo "Token: $GITHUB_TOKEN"
         env:
           GITHUB_TOKEN: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
+        run: echo ${{secrets.PERSONAL_ACCESS_TOKEN}}
       # generates a snake game from a github user (<github_user_name>) contributions graph, output a svg animation at <svg_out_path>
       - name: generate github-contribution-grid-snake.svg
         uses: Platane/snk/svg-only@v3
